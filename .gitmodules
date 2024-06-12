@@ -1,0 +1,6 @@
+[submodule "gRPC-test.server"]
+	path = gRPC-test.server
+	url = git@github.com:Barsu4ello/gRPC-test.server.git
+[submodule "gRPC-test.client"]
+	path = gRPC-test.client
+	url = git@github.com:Barsu4ello/gRPC-test.client.git
